@@ -3,7 +3,7 @@
 
  - A library management system , also known as an integrated library management system (IGOS), is a software for the computer management of the various activities necessary for the operation of a library. 
  
-  In particular, it makes it possible to manage, describe, consult, search and remove documents.
+  - In particular, it makes it possible to manage, describe, consult, search and remove documents.
   
  - This  library management system uses a bin file as a database
   
